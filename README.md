@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NTRfanboy
+- 👋 Hi, I’m @KSHANMUKHASAI
 - 👀 I’m interested in artificial intellegence
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-NTRfanboy/NTRfanboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KSHANMUKHASAI/KSHANMUKHASAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
